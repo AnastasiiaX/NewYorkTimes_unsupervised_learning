@@ -2,7 +2,7 @@
 
 Topic modeling and clustering of **New York Times** articles using unsupervised machine learning techniques.
 
----
+## [Google Colab](https://colab.research.google.com/drive/1S79NQYW5LRkmULok6XzpgFJuKPQecaKR?usp=sharing)
 
 ## Project Overview
 
@@ -45,7 +45,6 @@ python fetch_articles.py
 
 ### 5. Launch Jupyter notebooks:
 
-```bash
 Open and run the following notebooks:
 
 preprocessing.ipynb — Text cleaning and tokenization
@@ -53,7 +52,6 @@ preprocessing.ipynb — Text cleaning and tokenization
 topic_modeling.ipynb — Clustering and topic modeling
 
 visualization.ipynb — Charts and topic visualizations
-```
 
 ## Technologies Used
 
