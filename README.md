@@ -2,7 +2,7 @@
 
 Topic modeling and clustering of **New York Times** articles using unsupervised machine learning techniques.
 
-## [Google Colab]([https://colab.research.google.com/drive/1S79NQYW5LRkmULok6XzpgFJuKPQecaKR?usp=sharing](https://colab.research.google.com/drive/1WUox39VmuAN5vDv_pO2UcNvELQzXJMF3?usp=sharing))
+## [Google Colab](https://colab.research.google.com/drive/1S79NQYW5LRkmULok6XzpgFJuKPQecaKR?usp=sharing)
 
 ## Project Overview
 
