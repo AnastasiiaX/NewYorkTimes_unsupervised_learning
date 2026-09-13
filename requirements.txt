@@ -1,0 +1,14 @@
+# Packages imported by Unsupervised_learning_The_NYT.ipynb
+pandas
+numpy
+scikit-learn
+scipy
+matplotlib
+seaborn
+nltk
+beautifulsoup4
+vaderSentiment
+transformers
+torch
+pynytimes
+jupyter
